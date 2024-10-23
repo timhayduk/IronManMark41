@@ -1,3 +1,7 @@
+# 0.0.2
+
+- Added some silver "piston" details to upper gauntlet near wrist
+
 # v0.0.1
 
 - Initial commit
