@@ -8,5 +8,5 @@
 
 ### Gauntlet - v0.0.3
 
-![gauntlet screenshot](Screenshots/Gauntlet/v0.0.2.png)
+![gauntlet screenshot](Screenshots/Gauntlet/v0.0.3.png)
 
