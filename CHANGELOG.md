@@ -1,3 +1,8 @@
+# 0.0.4
+
+- Added silver wrist details to upper gauntlet
+- Carved out excess details from underside of upper gauntlet
+
 # 0.0.3
 
 - Filled in black backing on upper gauntlet
