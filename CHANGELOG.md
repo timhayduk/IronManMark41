@@ -3,6 +3,7 @@
 - Added silver wrist details to upper gauntlet
 - Carved out excess details from underside of upper gauntlet
 - Added STL file exports for upper gauntlet
+- Added sliced gcode for upper gauntlet (sliced for Prusa XL 3-tool printer)
 
 # 0.0.3
 
