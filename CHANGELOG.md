@@ -2,6 +2,7 @@
 
 - Added silver wrist details to upper gauntlet
 - Carved out excess details from underside of upper gauntlet
+- Added STL file exports for upper gauntlet
 
 # 0.0.3
 
