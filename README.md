@@ -6,7 +6,7 @@
 
 ![chestplate screenshot](Screenshots/Chestplate/v0.0.1.png)
 
-### Gauntlet - v0.0.4
+### Gauntlet - v0.0.5
 
-![gauntlet screenshot](Screenshots/Gauntlet/v0.0.4.png)
+![gauntlet screenshot](Screenshots/Gauntlet/v0.0.5.png)
 

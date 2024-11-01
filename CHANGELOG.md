@@ -1,3 +1,7 @@
+# 0.0.5
+
+- Added missed details near elbow on upper gauntlet
+
 # 0.0.4
 
 - Added silver wrist details to upper gauntlet
