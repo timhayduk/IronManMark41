@@ -1,3 +1,8 @@
+# 0.0.6
+
+- Fixed one silver cylinder on upper gauntlet
+- Aligned upper and lower gauntlet to prep for creating sides
+
 # 0.0.5
 
 - Added missed details near elbow on upper gauntlet
