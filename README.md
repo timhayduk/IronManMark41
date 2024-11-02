@@ -2,9 +2,9 @@
 
 ## Current versions:
 
-### Gauntlet - v0.0.6
+### Gauntlet - v0.0.7
 
-![gauntlet screenshot](Screenshots/Gauntlet/v0.0.6.png)
+![gauntlet screenshot](Screenshots/Gauntlet/v0.0.7.png)
 
 ### Chestplate - v0.0.1
 

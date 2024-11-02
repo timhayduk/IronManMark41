@@ -1,3 +1,8 @@
+# 0.0.7
+
+- Added black border detail to upper wrist
+- Re-separated bronze upper gauntlet panel
+
 # 0.0.6
 
 - Fixed one silver cylinder on upper gauntlet
